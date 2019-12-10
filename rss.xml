@@ -1,0 +1,26 @@
+<?xml version="2.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<tittle> Noticias RSS Jesús <tittle>
+		<link> http://prueba321-mipagina.apps.us-west-1.starter.openshift-online.com </link>
+		<description> Pagina donde se ubica mi pagina <description>
+
+		<item> 
+			<tittle> Noticias La Liga </tittle>
+			<link> https://e00-marca.uecdn.es/rss/futbol/primera-division.xml </link>
+			<description> Noticias de la primera liga española de futbol <description>
+		</item>
+
+		<item> 
+			<tittle> Noticias La Liga SmartBank </tittle>
+			<link> https://e00-marca.uecdn.es/rss/futbol/segunda-division.xml </link>
+			<description> Noticias de la segunda liga española de futbol <description>
+		</item>
+		<item> 
+			<tittle> Noticias La Calcio </tittle>
+			<link> https://e00-marca.uecdn.es/rss/futbol/liga-italiana.xml </link>
+			<description> Noticias de la liga italiana de futbol <description>
+		</item>
+	</channel>
+</rss>
+		
